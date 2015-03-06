@@ -4,6 +4,8 @@
 
 * The data files should be in the working directory as the code files and the name for the data file is "household_power_consumption.txt".
 
+* The folder named "figure" contains the same figures forked from the instructor's repository.
+
 
 
 RUN the code and enjoy !!!!!!
